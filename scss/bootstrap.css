@@ -11508,7 +11508,6 @@ main {
   background-image: none;
   background-color: #c7ecd8;
   background-size: cover;
-  background-repeat: no-repeat;
 }
 
 header {
@@ -11520,7 +11519,7 @@ footer {
 }
 
 h1, .h1 {
-  font-size: 72px;
+  font-size: 45px;
   font-family: Verdana;
   color: olive;
 }
