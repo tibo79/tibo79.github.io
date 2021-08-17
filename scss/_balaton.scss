@@ -1,43 +1,47 @@
-        main {
-                background-image: url("../IMG/tihanyhatter.jpg");
-                background-size: cover;
-                background-repeat: no-repeat;
-            }
-            
-            .fooldal {
-                background-image: none;
-                background-color: rgb(199, 236, 216);
-                background-size: cover;
-                background-repeat: repeat;
-            }
-        }
-        header {
-            height: 200px;
-        }
-        footer {
-            background-color: rgb(199, 236, 216);
-        }
-        h1 {
-            font-size: 45px;
-            font-family: Verdana;
-            color: olive;
-        }
-        section {
-            height: 400px;
-        }
-        #balatoncarousel {
-            height: 400px;
-        }
-        article {
-            font-family: Verdana;
-            font-weight: 300;
-            display: grid;
-            grid-column-gap: 30px;
-            grid-row-gap: 20px;
-        }
-        div.art {
-            background-color: rgba(197, 218, 255, 0.85);
-        }
-        div.card {
-            background-color: rgba(197, 218, 255, 0.85);
-        }
+main {
+    background-image: url("../IMG/tihanyhatter.jpg");
+    background-size: cover;
+    height: 1500px;
+}
+
+.fooldal {
+    background-image: none;
+    background-color: rgb(199, 236, 216);
+    background-size: cover;
+    background-repeat: repeat;
+    height: 1500px;
+}
+
+header {
+    height: 200px;
+}
+
+footer {
+    background-color: rgb(199, 236, 216);
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Verdana;
+    color: olive;
+}
+
+#balatoncarousel {
+    height: 400px;
+}
+
+article {
+    font-family: Verdana;
+    font-weight: 300;
+    display: grid;
+    grid-column-gap: 30px;
+    grid-row-gap: 20px;
+}
+
+div.art {
+    background-color: rgba(197, 218, 255, 0.85);
+}
+
+div.card {
+    background-color: rgba(197, 218, 255, 0.85);
+}

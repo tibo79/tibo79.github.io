@@ -11501,13 +11501,15 @@ fieldset:disabled .btn {
 main {
   background-image: url("../IMG/tihanyhatter.jpg");
   background-size: cover;
-  background-repeat: no-repeat;
+  height: 1500px;
 }
 
 .fooldal {
   background-image: none;
   background-color: #c7ecd8;
   background-size: cover;
+  background-repeat: repeat;
+  height: 1500px;
 }
 
 header {
@@ -11519,13 +11521,9 @@ footer {
 }
 
 h1, .h1 {
-  font-size: 45px;
+  font-size: 40px;
   font-family: Verdana;
   color: olive;
-}
-
-section {
-  height: 400px;
 }
 
 #balatoncarousel {
